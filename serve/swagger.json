@@ -1,0 +1,12 @@
+{
+    "openapi": "3.0.3", 
+    "info": {
+      "title": "TASK APP API", 
+      "description": "A simple swagger api", 
+      "version": "1.0.0", 
+      "contact": {
+        "name": "Tran Thanh Hoai"
+      }
+    },
+    "apis":["./routes/user.js"]
+}
